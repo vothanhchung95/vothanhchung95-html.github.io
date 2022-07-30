@@ -406,5 +406,7 @@ td {
 .link-section {
   display: flex;
   gap: 2em;
+  margin-bottom: 0;
   justify-content: center;
+  align-items: center;
 }
